@@ -26,12 +26,13 @@
     margin-right: auto;
     width: 50%;
 }
-.subsections{
-    display:flex;
+img{
     
+    width: 40%;
 }
 .sentence{
     font-size:xx-large;
     display: block;
     text-align: center;
 }
+
